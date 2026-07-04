@@ -1,0 +1,7 @@
+{
+  "name": "revive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
